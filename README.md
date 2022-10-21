@@ -4,6 +4,10 @@ Common design system for the staff-facing/back-office interfaces of MT R&D proje
 
 Consumes and augments [GOV.UK frontend](https://frontend.design-system.service.gov.uk/).
 
+## Consuming it in an app
+
+`npm i rnd-design-system`
+
 ## Developing with it locally
 
 You have two choices:
